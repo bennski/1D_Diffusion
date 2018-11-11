@@ -24,6 +24,7 @@ Created on Mon Jul  4 16:10:54 2016
 from matplotlib import pyplot as plt
 import matplotlib.animation as animation
 import numpy as np
+import numpy.matlib
 
 
 # Initialize writer
